@@ -6,6 +6,7 @@ A sample app built in Expo Snack using React Native.
 <br><br>
 
 Code and example available at: https://snack.expo.io/@danielle.inkster/flying-fish
+<br>
 **Can only be used on the iOS and Android platforms**
 
 The parameters given:
